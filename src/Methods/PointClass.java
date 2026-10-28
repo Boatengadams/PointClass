@@ -1,3 +1,4 @@
+// Question: How does passing a mutable Point object to a method change it?
 package Methods;
 
 import java.awt.*;
